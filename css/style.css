@@ -1,0 +1,16 @@
+body{
+    background-color: #083b4c;
+}
+
+.row h1{
+    font-size: 50px;
+}
+
+.square{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 100px;
+    height: 100px;
+}
